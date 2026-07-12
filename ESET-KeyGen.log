@@ -1,0 +1,42 @@
+2026-07-12 15:45:45,726 - INFO - Parsed arguments: {'chrome': True, 'firefox': False, 'waterfox': False, 'edge': False, 'safari': False, 'auto_detect_browser': False, 'key': True, 'small_business_key': False, 'advanced_key': False, 'vpn_codes': False, 'account': False, 'protecthub_account': False, 'only_webdriver_update': False, 'reset_eset_vpn': False, 'update': False, 'install': False, 'return_exit_code': 0, 'skip_webdriver_menu': False, 'no_headless': False, 'custom_browser_location': '', 'email_api': 'emailfake', 'custom_email_api': False, 'skip_update_check': False, 'no_logo': False, 'disable_progress_bar': False, 'disable_output_file': False, 'output_file': '', 'repeat': 1, 'proxy_file': 'proxies.txt', 'silent': False, 'disable_logging': False}
+2026-07-12 15:45:45,726 - INFO - ESET-KeyGen Version: text=v1.5.6.5, index=1565
+2026-07-12 15:45:45,726 - INFO - I_AM_EXECUTABLE=False, OS=nt
+2026-07-12 15:45:45,726 - INFO - sys.argv: ['main.py', '--chrome', '--key']
+2026-07-12 15:45:45,772 - INFO - -- Updater --
+2026-07-12 15:45:46,370 - INFO - Project up to date!!!
+2026-07-12 15:45:46,370 - INFO - -- WebDriver Auto-Installer --
+2026-07-12 15:45:46,413 - INFO - Google Chrome version: 150.0.7871.115
+2026-07-12 15:45:46,413 - INFO - Google Chrome webdriver version: 150.0.7871.115
+2026-07-12 15:45:46,413 - INFO - The webdriver has already been updated to the browser version!
+2026-07-12 15:45:46,414 - INFO - -- Browsers Initializer --
+2026-07-12 15:45:46,414 - INFO - Initializing Google Chrome for Windows
+2026-07-12 15:45:47,164 - INFO - -- KeyGen --
+2026-07-12 15:45:47,164 - INFO - [emailfake] Mail registration...
+2026-07-12 15:45:47,941 - INFO - Mail registration completed successfully!
+2026-07-12 15:45:47,941 - INFO - Register page loading...
+2026-07-12 15:45:49,766 - INFO - Register page is loaded!
+2026-07-12 15:45:49,766 - INFO - Bypassing cookies...
+2026-07-12 15:45:49,851 - INFO - Cookies successfully bypassed!
+2026-07-12 15:45:50,852 - INFO - Data filling...
+2026-07-12 15:45:51,633 - INFO - Selecting the country...
+2026-07-12 15:45:53,949 - INFO - Country selected!
+2026-07-12 15:45:55,306 - INFO - Successfully!
+2026-07-12 15:45:55,306 - INFO - [emailfake] ESET-HOME-Token interception...
+2026-07-12 15:46:00,864 - INFO - ESET-HOME-Token: f4dd6bc9-879f-4954-bcdd-b33ca933f5b9
+2026-07-12 15:46:00,864 - INFO - Account confirmation is in progress...
+2026-07-12 15:46:01,361 - INFO - Account successfully confirmed!
+2026-07-12 15:46:01,362 - INFO - [ESET HOME] Sending request and waiting for response...
+2026-07-12 15:46:05,032 - INFO - [ESET HOME] Response successfully received!
+2026-07-12 15:46:05,032 - INFO - License uploads...
+2026-07-12 15:46:10,979 - INFO - License ID: 3BC-8DT-VS9
+2026-07-12 15:46:11,081 - INFO - Information successfully received!
+2026-07-12 15:46:11,081 - INFO - 
+-------------------------------------------------
+Account Email: gazbert11@angiiidayyy.click
+Account Password: "fK'9Pn0D&hT_U3
+
+License Name: ESET HOME Security Premium
+License Key: 6SRB-XSWU-8J96-B3E2-J7U9
+License Out Date: 11.08.2026
+-------------------------------------------------
+
