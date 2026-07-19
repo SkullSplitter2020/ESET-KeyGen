@@ -1,17 +1,32 @@
 <div align="center">
+<div align="center">
   <img src="https://github.com/shadowcopyrz/etkg/blob/main/img/logo_alt.png?raw=true" alt="logo"/>
     
-  ![Version](https://img.shields.io/badge/version-1.5.6.5-gold)
+  ![Version](https://img.shields.io/badge/version-1.5.6.5_m0d_2.0_(Modded)-gold)
   
   [![Commit activity](https://img.shields.io/github/commit-activity/t/shadowcopyrz/etkg/main?cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/commits/main)
   ![Last commit](https://img.shields.io/github/last-commit/shadowcopyrz/etkg/main?cacheSeconds=0)
-  ![Last test](https://img.shields.io/badge/last_test-23.06.2026_18:19_UTC+3-blue)
+  ![Last test](https://img.shields.io/badge/last_test-12.07.2026-blue)
   [![Opened issues](https://img.shields.io/github/issues/shadowcopyrz/etkg?color=darkred)](https://github.com/shadowcopyrz/etkg/issues?cacheSeconds=0)
   [![Closed issues](https://img.shields.io/github/issues-closed/shadowcopyrz/etkg?color=darkgreen&cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/issues?q=is%3Aissue+is%3Aclosed)
   ![License](https://img.shields.io/github/license/shadowcopyrz/etkg)
 
-# ESET-KeyGen
+# ESET-KeyGen (Modded by sKulls inc.)
 ESET-KeyGen - Trial-Key & Account generator for ESET Products
+
+---
+
+## Mod Changes (v1.5.6.5 m0d 2.0)
+- Bug fixes: 14 critical bugs resolved
+- Refactoring: Codebase cleaned up and optimized
+- New features: Improved error handling, better version comparison
+- Code quality: Added base classes, context managers, type hints
+
+---
+
+## Original Project
+Original repository: [shadowcopyrz/etkg](https://github.com/shadowcopyrz/etkg)
+Original author: rzc0d3r and contributors
 
 ---
 
@@ -24,14 +39,8 @@ The authors and contributors are not responsible for any misuse or damage caused
 Use at your own risk and only on systems you own or have explicit permission to test.
 
 ---
-## 💰 Donations 💰
-You can support this project financially by following the link [here](https://github.com/shadowcopyrz/etkg?tab=readme-ov-file#-donations--1) 
-
----
 
 ## Useful links
-My [public channel with archives of my projects](https://t.me/rzc0d3r_official)
-
 [ESET Antivirus free trial](https://www.eset.com/int/home/free-trial/)
 
 [ESET VPN](https://home.eset.com/download/vpn)
@@ -166,7 +175,5 @@ Delete your current ESET HOME account
 ## Documentation
    - Help improve our documentation by submitting updates or clarifications.
 
-# 💰 Donations 💰
-* PayPal - **raze.c0d3r@gmail.com**
-
 ## This project exists in its current state thanks to all the people who have contributed and to all who create issues, which we solve together!
+</div>
