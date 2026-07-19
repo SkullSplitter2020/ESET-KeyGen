@@ -3,13 +3,6 @@
   <img src="https://github.com/shadowcopyrz/etkg/blob/main/img/logo_alt.png?raw=true" alt="logo"/>
     
   ![Version](https://img.shields.io/badge/version-1.5.6.5_m0d_2.0_(Modded)-gold)
-  
-  [![Commit activity](https://img.shields.io/github/commit-activity/t/shadowcopyrz/etkg/main?cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/commits/main)
-  ![Last commit](https://img.shields.io/github/last-commit/shadowcopyrz/etkg/main?cacheSeconds=0)
-  ![Last test](https://img.shields.io/badge/last_test-12.07.2026-blue)
-  [![Opened issues](https://img.shields.io/github/issues/shadowcopyrz/etkg?color=darkred)](https://github.com/shadowcopyrz/etkg/issues?cacheSeconds=0)
-  [![Closed issues](https://img.shields.io/github/issues-closed/shadowcopyrz/etkg?color=darkgreen&cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/issues?q=is%3Aissue+is%3Aclosed)
-  ![License](https://img.shields.io/github/license/shadowcopyrz/etkg)
 
 # ESET-KeyGen (Modded by sKulls inc.)
 ESET-KeyGen - Trial-Key & Account generator for ESET Products
